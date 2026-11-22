@@ -1,0 +1,8 @@
+What is function?
+- function is a block of code used for reusiblity.
+
+There are four types of function.
+1. without return without argument
+2. without return with argument
+3. with return without argument
+4. with return with argument
